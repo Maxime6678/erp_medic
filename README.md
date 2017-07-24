@@ -13,6 +13,7 @@ You can use in your server.
 - Animations
 - Configurable (features and language)
 - Whitelist Medic
+- Many others ...
 
 ### Requires
 
