@@ -16,8 +16,8 @@ You can use in your server.
 
 ### Requires
 
-- MySQL Async Library: https://forum.fivem.net/t/release-mysql-async-library-v1-0-0-legacy-v2-0-0-beta-fxserver/21881
-- Skin Customization: https://forum.fivem.net/t/release-skin-customization-v1-0/16491
+- MySQL Async Library: [https://forum.fivem.net/t/release-mysql-async-library-v1-0-0-legacy-v2-0-0-beta-fxserver/21881](https://forum.fivem.net/t/release-mysql-async-library-v1-0-0-legacy-v2-0-0-beta-fxserver/21881)
+- Skin Customization: [https://forum.fivem.net/t/release-skin-customization-v1-0/16491](https://forum.fivem.net/t/release-skin-customization-v1-0/16491)
 
 ### Installation
 
